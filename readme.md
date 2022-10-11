@@ -4,3 +4,5 @@
 - 가장 선호하는 기술 개발 방식은 모놀리식 아키텍쳐과 MVC의 조합입니다.
 - 최근 MSA(MicroService Architecture) 개발 방식에 관심이 있어 공부 중에 있습니다.
 - Airbnb의 코딩 컨벤션을 따릅니다.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimduumin&layout=compact&theme=tokyonight)
