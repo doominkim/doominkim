@@ -6,3 +6,4 @@
 - Airbnb의 코딩 컨벤션을 따릅니다.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doomin91&layout=compact&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doomin91)](https://github.com/anuraghazra/github-readme-stats)
