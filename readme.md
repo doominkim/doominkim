@@ -5,4 +5,4 @@
 - 최근 MSA(MicroService Architecture) 개발 방식에 관심이 있어 공부 중에 있습니다.
 - Airbnb의 코딩 컨벤션을 따릅니다.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimduumin&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doomin91&layout=compact&theme=tokyonight)
