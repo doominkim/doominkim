@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
-
 안녕하세요. 트위치를 좋아하는 3년차 웹 개발자입니다.
 - 현재 가장 선호하는 언어 및 기술은 Node.js, Typescript, Mysql 입니다.
 - Vue.js를 통해 간단한 UI(ToDoList, Trello)를 구현 할 수 있습니다.
