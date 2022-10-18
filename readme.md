@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
 <div align="center">
-<h3></h3>
+<h3>Dominic Kim🐏</h3>
 <p>우리의 일상을 편하고 즐겁게 해줄 서비스를 만들고 싶습니다.</p>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/doomin91&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/haesoo9410)
