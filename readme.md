@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
 <div align="center">
-<h3>개발자 김두민씨🐏</h3>
+<h3>웹개발자 김두민씨🐏</h3>
 
 <p>
   <a href="https://do-mi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-DD0B78?style=flat-square&logo=Tistory&logoColor=white"/></a>
