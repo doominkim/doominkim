@@ -9,8 +9,6 @@
   <a href="mailto:41@b41.kr" target="_blank"><img src="https://img.shields.io/badge/kimduumin@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<br>
-
 #### 💕 I prefer it these days 💕
 <br>
 <img src="https://img.shields.io/badge/Node.js-7CB700?style=flat-square&logo=Node.js&logoColor=white"/>
