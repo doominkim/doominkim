@@ -2,7 +2,7 @@
 
 <div align="center">
 <h3></h3>
-<p>챗봇, 트위치, 서비스 개발에 관심이 많은 백엔드 개발자입니다.</p>
+<p>우리의 일상을 편하고 즐겁게 해줄 서비스를 만들고 싶습니다.</p>
 
 <p>
   <a href="https://do-mi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-DD0B78?style=flat-square&logo=Tistory&logoColor=white"/></a>
