@@ -10,9 +10,9 @@
 </p>
 
  <p>
-  <a href="https://do-mi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/백문백답-DD0B78?style=flat-square&logo=Tistory&logoColor=white"/></a>
-  <a href="https://do-mi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/알고리즘 해석-DD0B78?style=flat-square&logo=Tistory&logoColor=white"/></a>
-  <a href="https://do-mi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/코딩 테스트-DD0B78?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <a href="https://github.com/doomin91/question-and-answer" target="_blank"><img src="https://img.shields.io/badge/백문백답-DD0B78?style=flat-square&logo=&logoColor=white"/></a>
+  <a href="https://github.com/doomin91/althorythm" target="_blank"><img src="https://img.shields.io/badge/알고리즘 해석-DD0B78?style=flat-square&logo=&logoColor=white"/></a>
+  <a href="https://github.com/doomin91/coding-test" target="_blank"><img src="https://img.shields.io/badge/코딩테스트-DD0B78?style=flat-square&logo=&logoColor=white"/></a>
  </p>
 
 #### 💕 I prefer it these days 💕
