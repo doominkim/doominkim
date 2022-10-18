@@ -27,7 +27,6 @@
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-7CB700?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nest.js-D5214A?style=flat-square&logo=Nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-3FB27F?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Codeigniter-E44A34?style=flat-square&logo=Codeigniter&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-008E81?style=flat-square&logo=FastAPI&logoColor=white"/>
