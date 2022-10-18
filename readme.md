@@ -7,6 +7,7 @@
 <p>
   <a href="https://do-mi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-DD0B78?style=flat-square&logo=Tistory&logoColor=white"/></a>
   <a href="mailto:41@b41.kr" target="_blank"><img src="https://img.shields.io/badge/kimduumin@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://do-mi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/백문백답-DD0B78?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </p>
 
 #### 💕 I prefer it these days 💕
