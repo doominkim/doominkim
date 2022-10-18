@@ -12,12 +12,14 @@
 일상을 편하고 즐겁게 해줄 서비스를 만들기 위해 노력하고 있습니다.  
 저에 대해 궁금한 부분이 있다면 👇 아래 내용을 클릭해보세요. 🙋‍♂️
 </p>
-  
+
  <p>
   <a href="https://github.com/doomin91/question-and-answer" target="_blank"><img src="https://img.shields.io/badge/👉백문백답-303238?style=flat-square&logo=&logoColor=white"/></a>
   <a href="https://github.com/doomin91/althorythm" target="_blank"><img src="https://img.shields.io/badge/👉알고리즘 해석-303238?style=flat-square&logo=&logoColor=white"/></a>
   <a href="https://github.com/doomin91/coding-test" target="_blank"><img src="https://img.shields.io/badge/👉코딩테스트 정리-303238?style=flat-square&logo=&logoColor=white"/></a>
  </p>
+
+---
 
 #### 💕 I prefer it these days 💕
 <br>
@@ -25,6 +27,8 @@
 <img src="https://img.shields.io/badge/TypeScript-2F72BC?style=flat-square&logo=TypeScript&logoColor=white"/>
 
 <br>
+
+---
 
 #### ⚾ What do I ⚾
 <br>
@@ -55,6 +59,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </p>
 
+---
 
 #### 🎈 I follow this langauge convention 🎈
 <br>
