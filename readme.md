@@ -20,6 +20,7 @@
  </p>
 
 
+<br>
 
 #### 💕 I prefer it these days 💕
 <br>
@@ -28,7 +29,7 @@
 
 <br>
 
----
+<br>
 
 #### ⚾ What do I ⚾
 <br>
@@ -59,7 +60,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </p>
 
----
+<br>
 
 #### 🎈 I follow this langauge convention 🎈
 <br>
