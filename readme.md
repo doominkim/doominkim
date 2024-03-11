@@ -22,7 +22,7 @@
 - Cartini Backend Team, Backend Developer (2022 -) <br>
 - Withnetworks Backend Team, Backend Developer (2020 - 2022) <br><br>
 ## Projects
-- <span style="background-color:#F5F5F5">Withnetworks</span> [WithVTM](www.naver.com)
+- <kbd>Withnetworks</kbd> [WithVTM](www.naver.com)
 - 
 <!--
 <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/>
