@@ -18,8 +18,6 @@
   <a href="https://github.com/doomin91/coding-test" target="_blank"><img src="https://img.shields.io/badge/👉코딩테스트 정리-303238?style=flat-square&logo=&logoColor=white"/></a>
  </p>
 
-
-<br>
 #### Work Experiences  <br>
 CARTINI Backend Team, Backend Developer (2022 -)  <br>
 WITHNETWORKS Backend Team, Backend Developer (2020 - 2022)  <br>
