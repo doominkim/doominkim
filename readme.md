@@ -20,7 +20,7 @@
 
 #### Work Experiences  <br>
 Cartini Backend Team, Backend Developer (2022 -) <br>
-<img src="https://img.shields.io/badge/Nestjs-7CB700?style=flat-square&logo=Nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-2F72BC?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-118D4D?style=flat-square&logo=mongodb&logoColor=white"/>
 <br>
