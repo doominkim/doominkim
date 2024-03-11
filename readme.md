@@ -19,14 +19,13 @@
  </p>
 
 #### Work Experiences  <br>
-CARTINI Backend Team, Backend Developer (2022 -)  <br>
+Cartini Backend Team, Backend Developer (2022 -)  <br>
 <img src="https://img.shields.io/badge/Node.js-7CB700?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-2F72BC?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-118D4D?style=flat-square&logo=mongodb&logoColor=white"/>
 <br>
 
-WITHNETWORKS Backend Team, Backend Developer (2020 - 2022) 
-
+Withnetworks Backend Team, Backend Developer (2020 - 2022) 
 <img src="https://img.shields.io/badge/PHP-7175AA?style=flat-square&logo=PHP&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-346D9D?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-7CB700?style=flat-square&logo=Node.js&logoColor=white"/>
