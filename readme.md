@@ -27,7 +27,7 @@
 - <kbd>Withnetworks</kbd> [WithFLOW](www.naver.com)
 - <kbd>Withnetworks</kbd> [FortiSoar](www.naver.com)
 - <kbd>SideProject</kbd> [today's word API Server](www.naver.com)
-- <kbd>SideProject</kbd> [twitch zomboid event handler]()
+- <kbd>SideProject</kbd> [twitch-event-handler]() <img src="https://img.shields.io/badge/Lua-7175AA?style=flat-square&logo=Lua&logoColor=white"/>
 - 
 <!--
 <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/>
