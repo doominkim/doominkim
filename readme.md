@@ -7,7 +7,7 @@
   <a href="mailto:41@b41.kr" target="_blank"><img src="https://img.shields.io/badge/kimduumin@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 <p>
-4년차 백엔드 개발자 Dominic 입니다.
+3년차 백엔드 개발자 Dominic 입니다.
 일상을 편하고 즐겁게 해줄 서비스를 만들기 위해 노력하고 있습니다.  
 </p>
 
