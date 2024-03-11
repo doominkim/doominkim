@@ -21,8 +21,13 @@
 #### Work Experiences  <br>
 CARTINI Backend Team, Backend Developer (2022 -)  <br>
 WITHNETWORKS Backend Team, Backend Developer (2020 - 2022) 
-<img src="https://img.shields.io/badge/Python-346D9D?style=flat-square&logo=Python&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/PHP-7175AA?style=flat-square&logo=PHP&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-346D9D?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-7CB700?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-3FB27F?style=flat-square&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeigniter-E44A34?style=flat-square&logo=Codeigniter&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-008E81?style=flat-square&logo=FastAPI&logoColor=white"/>
 <br>
 INDIGOSHOP No Job (2017 - 2020)  <br>
 EYEONSECUTIRY Security Engineer (2015 - 2017)  <br>
@@ -46,10 +51,7 @@ EYEONSECUTIRY Security Engineer (2015 - 2017)  <br>
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-7CB700?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-3FB27F?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Codeigniter-E44A34?style=flat-square&logo=Codeigniter&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-008E81?style=flat-square&logo=FastAPI&logoColor=white"/>
+
 </p>
 
 <p>
