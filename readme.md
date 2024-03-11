@@ -12,8 +12,8 @@
 </p>
 
  <p>
-  <a href="https://github.com/doomin91/question-and-answer" target="_blank"><img src="https://img.shields.io/badge/👉computer science-303238?style=flat-square&logo=&logoColor=white"/></a>
-  <a href="https://github.com/doomin91/althorythm" target="_blank"><img src="https://img.shields.io/badge/👉algorithm-303238?style=flat-square&logo=&logoColor=white"/></a>
+  <a href="https://github.com/doomin91/question-and-answer" target="_blank"><img src="https://img.shields.io/badge/👉 Computer Science-303238?style=flat-square&logo=&logoColor=white"/></a>
+  <a href="https://github.com/doomin91/althorythm" target="_blank"><img src="https://img.shields.io/badge/👉 Algorithm-303238?style=flat-square&logo=&logoColor=white"/></a>
 <!--   <a href="https://github.com/doomin91/coding-test" target="_blank"><img src="https://img.shields.io/badge/👉코딩테스트 정리-303238?style=flat-square&logo=&logoColor=white"/></a> -->
  </p>
 
