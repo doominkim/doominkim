@@ -17,20 +17,22 @@
   <a href="https://github.com/doomin91/coding-test" target="_blank"><img src="https://img.shields.io/badge/👉코딩테스트 정리-303238?style=flat-square&logo=&logoColor=white"/></a>
  </p>
 
-#### Work Experiences  <br>
-Cartini Backend Team, Backend Developer (2022 -) <br>
+## Work Experiences  <br>
+- Cartini Backend Team, Backend Developer (2022 -) <br>
 <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-2F72BC?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-118D4D?style=flat-square&logo=mongodb&logoColor=white"/>
 <br>
 
-Withnetworks Backend Team, Backend Developer (2020 - 2022) <br>
+- Withnetworks Backend Team, Backend Developer (2020 - 2022) <br>
 <img src="https://img.shields.io/badge/PHP-7175AA?style=flat-square&logo=PHP&logoColor=white"/>
 <img src="https://img.shields.io/badge/Codeigniter-E44A34?style=flat-square&logo=Codeigniter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-7CB700?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-3FB27F?style=flat-square&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-D88700?style=flat-square&logo=mysql&logoColor=white"/>
 <br>
+
+## Projects
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
