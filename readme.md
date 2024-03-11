@@ -20,11 +20,11 @@
 
 
 <br>
-#### Work Experiences
-CARTINI Backend Team, Backend Developer (2022 -)
-WITHNETWORKS Backend Team, Backend Developer (2020 - 2022)
-INDIGOSHOP No Job (2017 - 2020)
-EYEONSECUTIRY Security Engineer (2015 - 2017)
+#### Work Experiences  
+CARTINI Backend Team, Backend Developer (2022 -)  
+WITHNETWORKS Backend Team, Backend Developer (2020 - 2022)  
+INDIGOSHOP No Job (2017 - 2020)  
+EYEONSECUTIRY Security Engineer (2015 - 2017)  
 
 #### 💕 I prefer it these days 💕
 <br>
