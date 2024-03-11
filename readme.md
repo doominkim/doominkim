@@ -34,9 +34,6 @@ Withnetworks Backend Team, Backend Developer (2020 - 2022) <br>
 <img src="https://img.shields.io/badge/FastAPI-008E81?style=flat-square&logo=FastAPI&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-D88700?style=flat-square&logo=mysql&logoColor=white"/>
 <br>
-INDIGOSHOP No Job (2017 - 2020)  <br>
-EYEONSECUTIRY Security Engineer (2015 - 2017)  <br>
-
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
