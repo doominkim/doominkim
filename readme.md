@@ -27,7 +27,7 @@
 - <kbd>Withnetworks</kbd> [WithFLOW](www.naver.com)
 - <kbd>Withnetworks</kbd> [FortiSoar](www.naver.com)
 - <kbd>SideProject</kbd> [today's word API Server](www.naver.com)
-- <kbd>SideProject</kbd> [twitch-event-handler]() <img src="https://img.shields.io/badge/Lua-7175AA?style=flat-square&logo=Lua&logoColor=white"/> [morechat-desktop]() <img src="https://img.shields.io/badge/Electron-7175AA?style=flat-square&logo=Electron-7175AA&logoColor=white"/> 
+- <kbd>SideProject</kbd> [twitch-event-handler]() <img src="https://img.shields.io/badge/Lua-7175AA?style=flat-square&logo=Lua&logoColor=white"/> [morechat-desktop]() <img src="https://img.shields.io/badge/ElectronJS-7175AA?style=flat-square&logo=ElectronJS-7175AA&logoColor=white"/> 
 
 - 
 <!--
