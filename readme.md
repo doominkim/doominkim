@@ -26,11 +26,9 @@ Cartini Backend Team, Backend Developer (2022 -) <br>
 
 Withnetworks Backend Team, Backend Developer (2020 - 2022) <br>
 <img src="https://img.shields.io/badge/PHP-7175AA?style=flat-square&logo=PHP&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-346D9D?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeigniter-E44A34?style=flat-square&logo=Codeigniter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-7CB700?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-3FB27F?style=flat-square&logo=Vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Codeigniter-E44A34?style=flat-square&logo=Codeigniter&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-008E81?style=flat-square&logo=FastAPI&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-D88700?style=flat-square&logo=mysql&logoColor=white"/>
 <br>
 
