@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
-<div align="center">
+<div align="left">
 
 <p>
   <a href="https://do-mi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-DD0B78?style=flat-square&logo=Tistory&logoColor=white"/></a>
@@ -20,7 +20,10 @@
 
 #### Work Experiences  <br>
 CARTINI Backend Team, Backend Developer (2022 -)  <br>
-WITHNETWORKS Backend Team, Backend Developer (2020 - 2022)  <br>
+WITHNETWORKS Backend Team, Backend Developer (2020 - 2022) 
+<img src="https://img.shields.io/badge/Python-346D9D?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-7175AA?style=flat-square&logo=PHP&logoColor=white"/>
+<br>
 INDIGOSHOP No Job (2017 - 2020)  <br>
 EYEONSECUTIRY Security Engineer (2015 - 2017)  <br>
 
