@@ -27,10 +27,10 @@
 - <kbd>SideProject</kbd> [ALL-IN-ONE API FOR SIDEPROJECT](https://github.com/doomin91/dominic-server) <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-118D4D?style=flat-square&logo=mongodb&logoColor=white"/>
 - <kbd>SideProject</kbd> [twitch-event-handler]() <img src="https://img.shields.io/badge/Lua-7175AA?style=flat-square&logo=Lua&logoColor=white"/> [morechat-desktop]() <img src="https://img.shields.io/badge/ElectronJS-7175AA?style=flat-square&logo=ElectronJS-7175AA&logoColor=white"/>
 - <kbd>Cartini</kbd> [TIREPICK API]() <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-118D4D?style=flat-square&logo=mongodb&logoColor=white"/>
+- <kbd>SideProject</kbd> [today's word API]() <img src="https://img.shields.io/badge/Node.js-7CB700?style=flat-square&logo=Node.js&logoColor=white"/>
 - <kbd>Withnetworks</kbd> [FortiSoar](https://www.withnetworks.com/fortisoar) <img src="https://img.shields.io/badge/Python-D88700?style=flat-square&logo=Python&logoColor=white"/>
 - <kbd>Withnetworks</kbd> [WithFLOW](https://www.withnetworks.com/withflow) <img src="https://img.shields.io/badge/Node.js-7CB700?style=flat-square&logo=Node.js&logoColor=white"/><img src="https://img.shields.io/badge/Vue.js-3FB27F?style=flat-square&logo=Vue.js&logoColor=white"/>
 - <kbd>Withnetworks</kbd> [WithASM](https://www.withnetworks.com/withasm) <img src="https://img.shields.io/badge/PHP-7175AA?style=flat-square&logo=PHP&logoColor=white"/><img src="https://img.shields.io/badge/Codeigniter-E44A34?style=flat-square&logo=Codeigniter&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-D88700?style=flat-square&logo=mysql&logoColor=white"/> 
-- <kbd>SideProject</kbd> [today's word API]() <img src="https://img.shields.io/badge/Node.js-7CB700?style=flat-square&logo=Node.js&logoColor=white"/>
 
 <!--
 <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/>
