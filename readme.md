@@ -24,8 +24,8 @@
 - Withnetworks Backend Team, Backend Developer (2020 - 2022) <br><br>
 
 ## Projects
-- <kdb>SideProject></kdb> <img src="https://img.shields.io/badge/ing-ea2845?style=flat-square&logoColor=white"/> [carwash-pick-api]()
-- <kdb>SideProject></kdb> <img src="https://img.shields.io/badge/ing-ea2845?style=flat-square&logoColor=white"/> [chzzk-chatbot]()
+- <kdb>SideProject</kdb> <img src="https://img.shields.io/badge/ing-ea2845?style=flat-square&logoColor=white"/> [carwash-pick-api]()
+- <kdb>SideProject</kdb> <img src="https://img.shields.io/badge/ing-ea2845?style=flat-square&logoColor=white"/> [chzzk-chatbot]()
 - <kbd>SideProject</kbd> [ALL-IN-ONE API FOR SIDEPROJECT](https://github.com/doomin91/dominic-server) <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-118D4D?style=flat-square&logo=mongodb&logoColor=white"/>
 - <kbd>SideProject</kbd> [twitch-event-handler]() <img src="https://img.shields.io/badge/Lua-7175AA?style=flat-square&logo=Lua&logoColor=white"/> [morechat-desktop]() <img src="https://img.shields.io/badge/ElectronJS-7175AA?style=flat-square&logo=ElectronJS-7175AA&logoColor=white"/>
 - <kbd>Cartini</kbd> [TIREPICK API]() <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-118D4D?style=flat-square&logo=mongodb&logoColor=white"/>
