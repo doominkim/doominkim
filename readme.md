@@ -25,9 +25,9 @@
 
 ## Projects
 - <kbd>SideProject</kbd> <img src="https://img.shields.io/badge/not%20started%20-8A2BE2"/> [chzzk-cheese](https://github.com/doomin91/chzzk-cheese) <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/postgreSQL-699eca?style=flat-square&logo=postgreSQL&logoColor=white"/>
-- <kbd>SideProject</kbd> [webtoon-crawler](https://github.com/doomin91/webtoon-crawler) <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/>
-- <kbd>SideProject</kbd> [kakao-chatbot](https://github.com/doomin91/kakao-chatbot) <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/><img 
-- <kbd>SideProject</kbd> [twitch-event-handler-server](https://github.com/doomin91/twitch-event-handler-server) <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-
+- <kbd>SideProject</kbd> [webtoon-crawler](https://github.com/doomin91/webtoon-crawler) <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/postgreSQL-699eca?style=flat-square&logo=postgreSQL&logoColor=white"/>
+- <kbd>SideProject</kbd> [kakao-chatbot](https://github.com/doomin91/kakao-chatbot) <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/postgreSQL-699eca?style=flat-square&logo=postgreSQL&logoColor=white"/>
+- <kbd>SideProject</kbd> [twitch-event-handler-server](https://github.com/doomin91/twitch-event-handler-server) <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/postgreSQL-699eca?style=flat-square&logo=postgreSQL&logoColor=white"/>
 - <kbd>SideProject</kbd> [twitch-event-handler]() <img src="https://img.shields.io/badge/Lua-7175AA?style=flat-square&logo=Lua&logoColor=white"/> 
 - <kbd>SideProject</kbd> [twitch-event-handler-desktop]() <img src="https://img.shields.io/badge/ElectronJS-7175AA?style=flat-square&logo=ElectronJS-7175AA&logoColor=white"/>
 - <kbd>SideProject</kbd> [main-nest-framework](https://github.com/doomin91/dominic-server) <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/>
