@@ -20,7 +20,7 @@
 
 
 ## Work Experiences  <br>
-- Cartini Backend Team, Backend Developer (2022 -) <br>
+- Cartini Backend Team, Backend Developer (2022 - Present) <br>
 - Withnetworks Backend Team, Backend Developer (2020 - 2022) <br><br>
 
 ## Projects
@@ -31,7 +31,7 @@
 - <kbd>SideProject</kbd> [twitch-event-handler]() <img src="https://img.shields.io/badge/Lua-7175AA?style=flat-square&logo=Lua&logoColor=white"/> 
 - <kbd>SideProject</kbd> [twitch-event-handler-desktop]() <img src="https://img.shields.io/badge/ElectronJS-7175AA?style=flat-square&logo=ElectronJS-7175AA&logoColor=white"/>
 - <kbd>SideProject</kbd> [main-nest-framework](https://github.com/doomin91/dominic-server) <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/>
-- <kbd>Cartini</kbd> [TIREPICK API]() <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-118D4D?style=flat-square&logo=mongodb&logoColor=white"/>
+- <kbd>Cartini</kbd> [TIREPICK API]() (2022.11 - Present) <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-118D4D?style=flat-square&logo=mongodb&logoColor=white"/>
 - <kbd>Withnetworks</kbd> <kbd>BNK 부산은행 정보보호부</kbd> [WithFLOW](https://www.withnetworks.com/withflow) (2022.08 - 2022.11) <img src="https://img.shields.io/badge/Node.js-7CB700?style=flat-square&logo=Node.js&logoColor=white"/><img src="https://img.shields.io/badge/Vue.js-3FB27F?style=flat-square&logo=Vue.js&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-118D4D?style=flat-square&logo=mongodb&logoColor=white"/>
 - <kbd>SideProject</kbd> [news-crawler]() (2022.06 - 2022.07) <img src="https://img.shields.io/badge/Node.js-7CB700?style=flat-square&logo=Node.js&logoColor=white"/> 
 - <kbd>Withnetworks</kbd> <kbd>NCSOFT 보안관제팀</kbd> [FortiSoar](https://www.withnetworks.com/fortisoar) (2022.05 - 2022.07) <img src="https://img.shields.io/badge/Python-D88700?style=flat-square&logo=Python&logoColor=white"/>
