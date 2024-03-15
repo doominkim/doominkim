@@ -24,7 +24,7 @@
 - Withnetworks Backend Team, Backend Developer (2020 - 2022) <br><br>
 
 ## Projects
-- <kbd>SideProject</kbd> ![Generic badge](https://img.shields.io/badge/npm-0.0.0-green.svg) [chzzk-z](https://github.com/doominkim/chzzk-z) <img src="https://img.shields.io/badge/JavaScript-2F72BC?style=flat-square&logo=JavaScript&logoColor=white"/>
+- <kbd>SideProject</kbd> ![Generic badge](https://img.shields.io/badge/npm-0.0.1-green.svg) [chzzk-z](https://github.com/doominkim/chzzk-z) <img src="https://img.shields.io/badge/JavaScript-2F72BC?style=flat-square&logo=JavaScript&logoColor=white"/>
 - <kbd>SideProject</kbd> <img src="https://img.shields.io/badge/not%20started%20-8A2BE2"/> [chzzk-cheese](https://github.com/doominkim/chzzk-cheese) <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/postgreSQL-699eca?style=flat-square&logo=postgreSQL&logoColor=white"/>
 - <kbd>SideProject</kbd> [kakao-chatbot](https://github.com/doominkim/kakao-chatbot) <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/postgreSQL-699eca?style=flat-square&logo=postgreSQL&logoColor=white"/>
 - <kbd>SideProject</kbd> [twitch-event-handler-server](https://github.com/doominkim/twitch-event-handler-server) <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/postgreSQL-699eca?style=flat-square&logo=postgreSQL&logoColor=white"/>
