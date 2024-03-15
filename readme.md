@@ -36,6 +36,14 @@
 - <kbd>Withnetworks</kbd> <kbd>NCSOFT 보안관제팀</kbd> [FortiSoar](https://www.withnetworks.com/fortisoar) (2022.05 - 2022.07) <img src="https://img.shields.io/badge/Python-D88700?style=flat-square&logo=Python&logoColor=white"/>
 - <kbd>Withnetworks</kbd> <kbd>BNK 부산은행 정보보호부</kbd> [WithASM](https://www.withnetworks.com/withasm) (2020.04 - 2022.11) <img src="https://img.shields.io/badge/PHP-7175AA?style=flat-square&logo=PHP&logoColor=white"/><img src="https://img.shields.io/badge/Codeigniter-E44A34?style=flat-square&logo=Codeigniter&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-D88700?style=flat-square&logo=mysql&logoColor=white"/> 
 
+
+
+
+| project | version | link | stack |
+|-------|-------|----|-----|
+| <kbd>SideProject</kbd> | ![Generic badge](https://img.shields.io/badge/npm-0.0.1-green.svg) | [chzzk-z](https://github.com/doominkim/chzzk-z) | <img src="https://img.shields.io/badge/JavaScript-2F72BC?style=flat-square&logo=JavaScript&logoColor=white"/> |
+| <kbd>SideProject</kbd> | <img src="https://img.shields.io/badge/not%20started%20-8A2BE2"/> | [chzzk-cheese](https://github.com/doominkim/chzzk-cheese) <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/postgreSQL-699eca?style=flat-square&logo=postgreSQL&logoColor=white"/> |
+
 <!--
 <img src="https://img.shields.io/badge/postgreSQL-ea2845?style=flat-square&logo=postgreSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/>
