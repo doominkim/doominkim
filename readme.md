@@ -12,10 +12,10 @@
 </p>
 
  <p>
-  <a href="https://github.com/doomin91/question-and-answer" target="_blank"><img src="https://img.shields.io/badge/👉👉 Fortpolio 👈👈 -303238?style=flat-square&logo=&logoColor=white"/></a>
-  <a href="https://github.com/doomin91/question-and-answer" target="_blank"><img src="https://img.shields.io/badge/🖥️ Computer Science-303238?style=flat-square&logo=&logoColor=white"/></a>
-  <a href="https://github.com/doomin91/althorythm" target="_blank"><img src="https://img.shields.io/badge/🕹️ Algorithm-303238?style=flat-square&logo=&logoColor=white"/></a>
-<!--   <a href="https://github.com/doomin91/coding-test" target="_blank"><img src="https://img.shields.io/badge/👉코딩테스트 정리-303238?style=flat-square&logo=&logoColor=white"/></a> -->
+  <a href="https://github.com/dookimkim/question-and-answer" target="_blank"><img src="https://img.shields.io/badge/👉👉 Fortpolio 👈👈 -303238?style=flat-square&logo=&logoColor=white"/></a>
+  <a href="https://github.com/dookimkim/question-and-answer" target="_blank"><img src="https://img.shields.io/badge/🖥️ Computer Science-303238?style=flat-square&logo=&logoColor=white"/></a>
+  <a href="https://github.com/dookimkim/althorythm" target="_blank"><img src="https://img.shields.io/badge/🕹️ Algorithm-303238?style=flat-square&logo=&logoColor=white"/></a>
+<!--   <a href="https://github.com/dookimkim/coding-test" target="_blank"><img src="https://img.shields.io/badge/👉코딩테스트 정리-303238?style=flat-square&logo=&logoColor=white"/></a> -->
  </p>
 
 
@@ -24,9 +24,9 @@
 - Withnetworks Backend Team, Backend Developer (2020 - 2022) <br><br>
 
 ## Projects
-- <kbd>SideProject</kbd> <img src="https://img.shields.io/badge/not%20started%20-8A2BE2"/> [chzzk-cheese](https://github.com/doomin91/chzzk-cheese) <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/postgreSQL-699eca?style=flat-square&logo=postgreSQL&logoColor=white"/>
-- <kbd>SideProject</kbd> [kakao-chatbot](https://github.com/doomin91/kakao-chatbot) <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/postgreSQL-699eca?style=flat-square&logo=postgreSQL&logoColor=white"/>
-- <kbd>SideProject</kbd> [twitch-event-handler-server](https://github.com/doomin91/twitch-event-handler-server) <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/postgreSQL-699eca?style=flat-square&logo=postgreSQL&logoColor=white"/>
+- <kbd>SideProject</kbd> <img src="https://img.shields.io/badge/not%20started%20-8A2BE2"/> [chzzk-cheese](https://github.com/dookimkim/chzzk-cheese) <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/postgreSQL-699eca?style=flat-square&logo=postgreSQL&logoColor=white"/>
+- <kbd>SideProject</kbd> [kakao-chatbot](https://github.com/dookimkim/kakao-chatbot) <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/postgreSQL-699eca?style=flat-square&logo=postgreSQL&logoColor=white"/>
+- <kbd>SideProject</kbd> [twitch-event-handler-server](https://github.com/dookimkim/twitch-event-handler-server) <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/postgreSQL-699eca?style=flat-square&logo=postgreSQL&logoColor=white"/>
 - <kbd>SideProject</kbd> [zomboid-event-module]() <img src="https://img.shields.io/badge/Lua-7175AA?style=flat-square&logo=Lua&logoColor=white"/> 
 - <kbd>SideProject</kbd> [chat-event-handler-desktop]() <img src="https://img.shields.io/badge/ElectronJS-7175AA?style=flat-square&logo=ElectronJS-7175AA&logoColor=white"/>
 - <kbd>Cartini</kbd> [TIREPICK API]() (2022.11 - Present) <img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-118D4D?style=flat-square&logo=mongodb&logoColor=white"/>
