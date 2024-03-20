@@ -2,13 +2,17 @@
 
 <div align="left">
 
+if you want to be my sponsor. send me an email.
 <p>
   <a href="https://do-mi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-DD0B78?style=flat-square&logo=Tistory&logoColor=white"/></a>
   <a href="mailto:41@b41.kr" target="_blank"><img src="https://img.shields.io/badge/kimduumin@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 <p>
-4년차 백엔드 개발자 Dominic 입니다.
-일상을 편하고 즐겁게 해줄 서비스를 만들기 위해 노력하고 있습니다.  
+Hello. everyone. i'm dominic.
+I've been working as a Back-End Developer for about four years.
+these days i'm interested in ChatBot And WebGame.
+
+
 </p>
 
  <p>
