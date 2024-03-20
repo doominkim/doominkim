@@ -16,7 +16,7 @@ these days i'm interested in ChatBot And WebGame.<br>
 </p>
 
  <p>
-  <a href="https://github.com/doominkim/question-and-answer" target="_blank"><img src="https://img.shields.io/badge/👉👉 Fortpolio 👈👈 -303238?style=flat-square&logo=&logoColor=white"/></a>
+<!--   <a href="https://github.com/doominkim/question-and-answer" target="_blank"><img src="https://img.shields.io/badge/👉👉 Fortpolio 👈👈 -303238?style=flat-square&logo=&logoColor=white"/></a> -->
   <a href="https://github.com/doominkim/question-and-answer" target="_blank"><img src="https://img.shields.io/badge/🖥️ Computer Science-303238?style=flat-square&logo=&logoColor=white"/></a>
   <a href="https://github.com/doominkim/althorythm" target="_blank"><img src="https://img.shields.io/badge/🕹️ Algorithm-303238?style=flat-square&logo=&logoColor=white"/></a>
 <!--   <a href="https://github.com/doominkim/coding-test" target="_blank"><img src="https://img.shields.io/badge/👉코딩테스트 정리-303238?style=flat-square&logo=&logoColor=white"/></a> -->
