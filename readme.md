@@ -8,9 +8,9 @@ if you want to be my sponsor. send me an email.
   <a href="mailto:41@b41.kr" target="_blank"><img src="https://img.shields.io/badge/kimduumin@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 <p>
-Hello. everyone. i'm dominic.
-I've been working as a Back-End Developer for about four years.
-these days i'm interested in ChatBot And WebGame.
+Hello. everyone. i'm Dominic.<br>
+I've been working as a Back-End Developer for about four years.<br>
+these days i'm interested in ChatBot And WebGame.<br>
 
 
 </p>
