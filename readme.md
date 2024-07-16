@@ -32,6 +32,7 @@ these days i'm interested in ChatBot And WebGame.<br>
 
 | type | title | description | stack |
 |---|---|---|---|
+| `SideProject` | 준비중 | 음성인식 기반(STT) 채팅 AI for 치지직 |  |
 | `SideProject` | [chzzk-cheese-web](https://github.com/doominkim/chzzk-cheese-web) | 치지직 치즈 웹 |  |
 | `SideProject` | [chzzk-z](https://github.com/doominkim/chzzk-z?tab=readme-ov-file)| 치지직 비공식 API 라이브러리 | <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/> |
 | `SideProject` | [chzzk-cheese](https://github.com/doominkim/chzzk-cheese) | 치지직 비공식 챗봇 "치즈봇" |<img src="https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/postgreSQL-699eca?style=flat-square&logo=postgreSQL&logoColor=white"/> |
