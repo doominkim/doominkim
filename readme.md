@@ -24,9 +24,9 @@ these days i'm interested in ChatBot And WebGame.<br>
 
 
 ## Work Experiences  <br>
-- Cartini Backend Team, Backend Developer (2024 - Present) <br>
-- Cartini Backend Team, Backend Developer (2022 - 2024) <br>
-- Withnetworks Backend Team, Backend Developer (2020 - 2022) <br><br>
+- DealerTire Backend Team, Backend Developer (2024.08 - Present) <br>
+- Cartini Backend Team, Backend Developer (2022.12 - 2024.08) <br>
+- Withnetworks Backend Team, Backend Developer (2020.04 - 2022.11) <br><br>
 
 ## Projects
 
