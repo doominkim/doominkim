@@ -47,7 +47,7 @@ If you're interested in sponsoring or collaborating, feel free to reach out.
 |------|-------|-------------|-------|
 | SideProject | [chzzk-cheese-web](https://github.com/doominkim/chzzk-cheese-web) | 치지직 치즈 웹 |  |
 | SideProject | [chzzk-z](https://github.com/doominkim/chzzk-z?tab=readme-ov-file) | 치지직 비공식 API 라이브러리 | ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white) |
-| SideProject | [chzzk-cheese](https://github.com/doominkim/chzzk-cheese) | 치지직 비공식 챗봇 "치즈봇" | ![NestJS](https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgreSQL-699eca?style=flat-square&logo=postgreSQL&logoColor=white) |
+| SideProject | [stream-chat-monitor](https://github.com/doominkim/stream-chat-monitor) | 치지직 비공식 챗봇 "치즈봇" | ![NestJS](https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgreSQL-699eca?style=flat-square&logo=postgreSQL&logoColor=white) |
 | SideProject | [twitch-event-handler-server](https://github.com/doominkim/twitch-event-handler-server) | 트위치 채팅 수집 서버 | ![NestJS](https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgreSQL-699eca?style=flat-square&logo=postgreSQL&logoColor=white) |
 | SideProject | [zomboid-event-module]() | 좀보이드 mod for TwitchChat | ![Lua](https://img.shields.io/badge/Lua-7175AA?style=flat-square&logo=Lua&logoColor=white) |
 | SideProject | [chat-event-handler-desktop]() | 트위치 채팅 수집 데스크탑 | ![ElectronJS](https://img.shields.io/badge/ElectronJS-7175AA?style=flat-square&logo=Electron&logoColor=white) |
