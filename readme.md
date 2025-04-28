@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
-<div align="center">
-
 ### 👋 안녕하세요, Dominic입니다.
 4년 이상의 백엔드 개발 경력을 보유하고 있으며,
 최근 스트리밍 데이터 분석과 AI 기반 솔루션 개발 분야에 깊은 관심을 갖고 도전하고 있습니다.
