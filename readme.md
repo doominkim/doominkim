@@ -25,25 +25,27 @@
   <a href="mailto:41@b41.kr" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
----
-
-### 📂 Tech Highlights
-<p>
-  <a href="https://github.com/doominkim/question-and-answer" target="_blank"><img src="https://img.shields.io/badge/🖥️ Computer Science-303238?style=flat-square"/></a>
-  <a href="https://github.com/doominkim/althorythm" target="_blank"><img src="https://img.shields.io/badge/🕹️ Algorithm-303238?style=flat-square"/></a>
-</p>
-
----
-
 ### 💼 Work Experience
 
-- **DealerTire**, Backend Developer (2024.08 - Present)
-- **Cartini**, Backend Developer (2022.12 - 2024.08)
-- **Withnetworks**, Backend Developer (2020.04 - 2022.11)
+- **딜러타이어**, 백엔드 개발자 (2024.08 - Present)
+- **카티니**, 백엔드 개발자 (2022.12 - 2024.08)
+- **(주)위드네트웍스**, 백엔드 개발자 (2020.04 - 2022.11)
 
 ---
 
-### 🛠️ Projects
+### 🛠️ 진행 중인 사이드 프로젝트
+
+| 프로젝트명 | 설명 | 주요 기술 |
+|:---|:---|:---|
+
+| [stream-chat-monitor](https://github.com/doominkim/stream-chat-monitor) | 치지직 스트리밍 채팅 데이터를 수집하고, PostgreSQL에 저장하며, 향후 AI 분석을 위한 전처리 파이프라인을 구축하는 NestJS 기반 서버. | ![NestJS](https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgreSQL-699eca?style=flat-square&logo=postgreSQL&logoColor=white) |
+| [stream-chat-monitor-ui](https://github.com/doominkim/stream-chat-monitor-ui) | 스트리밍 데이터 수집·시각화 플랫폼 | ![NestJS](https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgreSQL-699eca?style=flat-square&logo=postgreSQL&logoColor=white) |
+| [chzzk-z](https://github.com/doominkim/chzzk-z?tab=readme-ov-file) | 치지직 비공식 API 라이브러리 | ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white) |
+| [media-ai-hub](https://github.com/doominkim/media-ai-hub]) | 다양한 미디어(AI) 분석 요청을 수집하고 처리하는 허브 서버 | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) |
+
+---
+
+### 🛠️ 프로젝트
 
 | Type | Title | Description | Stack |
 |------|-------|-------------|-------|
@@ -54,7 +56,7 @@
 
 ---
 
-### 🌱 Side Projects
+### 🌱 사이드프로젝트
 
 | Type | Title | Description | Stack |
 |------|-------|-------------|-------|
