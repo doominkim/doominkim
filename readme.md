@@ -19,6 +19,8 @@
 **협업, 후원, 혹은 새로운 도전을 함께할 파트너를 찾고 있습니다.**  
 언제든 편하게 연락 주세요.
 
+진행중인 프로젝트는 아래 링크에서 확인 할 수 있습니다.
+[stream-chat-monitor](http://ping-pong.world)
 
 <p>
   <a href="https://do-mi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=Tistory&logoColor=white"/></a>
