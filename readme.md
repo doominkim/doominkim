@@ -39,8 +39,8 @@
 
 | 프로젝트명 | 설명 | 주요 기술 |
 |:---|:---|:---|
-| [stream-pipeline] https://github.com/doominkim/stream-pipeline | [모노레포] MSA형태로 배포될 수 있도록 마이그레이션된 채팅, 영상 수집 프로젝트 | |
-| [stream-api] https://github.com/doominkim/stream-api | MSA형태로 배포될 수 있도록 마이그레이션된 API | |
+| [stream-pipeline](https://github.com/doominkim/stream-pipeline) | [모노레포] MSA형태로 배포될 수 있도록 마이그레이션된 채팅, 영상 수집 프로젝트 | ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white) |
+| [stream-api](https://github.com/doominkim/stream-api) | MSA형태로 배포될 수 있도록 마이그레이션된 API | ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white) |
 | [stream-chat-monitor](https://github.com/doominkim/stream-chat-monitor) | 치지직 스트리밍 채팅 데이터를 수집하고, PostgreSQL에 저장하며, 향후 AI 분석을 위한 전처리 파이프라인을 구축하는 NestJS 기반 서버. | ![NestJS](https://img.shields.io/badge/Nestjs-ea2845?style=flat-square&logo=Nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgreSQL-699eca?style=flat-square&logo=postgreSQL&logoColor=white) |
 | [stream-chat-monitor-ui](https://github.com/doominkim/stream-chat-monitor-ui) | 스트리밍 데이터 수집·시각화 플랫폼 | |
 | [chzzk-z](https://github.com/doominkim/chzzk-z?tab=readme-ov-file) | 치지직 비공식 API 라이브러리 | ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white) |
